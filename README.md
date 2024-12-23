@@ -26,7 +26,8 @@ Ao longo dos meses é possível comparar a receita com o percentual do lucro, qu
 
 Análises sobre a quantidade vendida também é de suma importância no segmento de varejo.
 
-![image](https://github.com/user-attachments/assets/860b48ed-a1d3-4348-bb0a-78dd27e7db70)
+![image](https://github.com/user-attachments/assets/5329c532-e2ea-45c9-8638-ca49238b5d42)
+
 
 Como se trata de uma empresa multinacional, que atua em todo o mundo, é importante ter a visão analítica dos dados nesses locais. 
 O que é facilitado implementando um parâmetro. 
@@ -60,6 +61,12 @@ O projeto inclui um painel interativo a critério do usuário, com os seguintes 
  -  Baixar a View .sql
    
  -  Necessário baixar o banco de dados fornecido pela Microsoft para editar e criar novas consultas: https://learn.microsoft.com/pt-br/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
+
+  ### Projeto em desenvolvimento
+
+  Na Página 1 e 2 ainda não foram implementadas mudanças de layout. 
+
+   
 
 
 
